@@ -32,7 +32,7 @@ Deployment Steps
 
 -Bastion Host Configuration: Since the instances are private and lack public IPs, use a bastion host to access them.
 
-Deploy the Static Website: Deploy the static HTML website within one of the subnets.
+-Deploy the Static Website: Deploy the static HTML website within one of the subnets.
 
 -Create a Target Group: Configure a target group using the load balancer to manage traffic to the EC2 instances.
 
